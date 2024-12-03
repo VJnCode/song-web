@@ -1,12 +1,16 @@
-import React from 'react';
-import Header from './components/Header';
-import SongList from './components/SongList';
+import React, { useState } from "react";
+import Header from "./components/Header"; // Import Header component
+import SongList from "./components/SongList"; // Import SongList component
 
-const App = () => (
-  <div className="bg-gray-100 min-h-screen">
-    <Header />
-    <SongList />
-  </div>
-);
+const App = () => {
+  const [filteredSongs, setFilteredSongs] = useState([]); // Store filtered songs
+
+  return (
+    <div>
+      <Header setFilteredSongs={setFilteredSongs} />
+      <SongList filteredSongs={filteredSongs} />
+    </div>
+  );
+};
 
 export default App;

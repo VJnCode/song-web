@@ -1,0 +1,88 @@
+[
+    {
+        "_id": "67422d712a3893162f27f4ae",
+        "imdbId": "tt1630029",
+        "title": "Shape of You",
+        "releaseDate": "2017-01-06",
+        "trailerLink": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+        "genres": [
+            "Pop",
+            "Dance"
+        ],
+
+        "poster": "https://img.youtube.com/vi/JGwWNGJdvx8/hqdefault.jpg",
+        "backdrops": [
+            "https://img.youtube.com/vi/JGwWNGJdvx8/maxresdefault.jpg",
+            "https://img.youtube.com/vi/JGwWNGJdvx8/mqdefault.jpg"
+        ],
+        "reviewIds": []
+    },
+    {
+        "_id": "67422d712a3893162f27f4af",
+        "imdbId": "tt1234567",
+        "title": "Blinding Lights",
+        "releaseDate": "2019-11-29",
+        "trailerLink": "https://www.youtube.com/watch?v=fHI8X4OXluQ",
+        "genres": [
+            "Synthwave",
+            "Electronic"
+        ],
+        "poster": "https://img.youtube.com/vi/fHI8X4OXluQ/hqdefault.jpg",
+        "backdrops": [
+            "https://img.youtube.com/vi/fHI8X4OXluQ/maxresdefault.jpg",
+            "https://img.youtube.com/vi/fHI8X4OXluQ/mqdefault.jpg"
+        ],
+        "reviewIds": []
+    },
+    {
+        "_id": "67422d712a3893162f27f4b0",
+        "imdbId": "tt9876543",
+        "title": "Levitating",
+        "releaseDate": "2020-10-01",
+        "trailerLink": "https://www.youtube.com/watch?v=TUVcZfQe-Kw",
+        "genres": [
+            "Disco",
+            "Pop"
+        ],
+        "poster": "https://img.youtube.com/vi/TUVcZfQe-Kw/hqdefault.jpg",
+        "backdrops": [
+            "https://img.youtube.com/vi/TUVcZfQe-Kw/maxresdefault.jpg",
+            "https://img.youtube.com/vi/TUVcZfQe-Kw/mqdefault.jpg"
+        ],
+        "reviewIds": []
+    },
+    {
+        "_id": "67422d712a3893162f27f4b1",
+        "imdbId": "tt1234578",
+        "title": "Watermelon Sugar",
+        "releaseDate": "2020-05-18",
+        "trailerLink": "https://www.youtube.com/watch?v=E07s5zybLxw",
+        "genres": [
+            "Pop",
+            "Funk"
+        ],
+        "poster": "https://img.youtube.com/vi/E07s5zybLxw/hqdefault.jpg",
+        "backdrops": [
+            "https://img.youtube.com/vi/E07s5zybLxw/maxresdefault.jpg",
+            "https://img.youtube.com/vi/E07s5zybLxw/mqdefault.jpg"
+        ],
+        "reviewIds": []
+    },
+    {
+        "_id": "67422d712a3893162f27f4b2",
+        "imdbId": "tt6543210",
+        "title": "Save Your Tears",
+        "releaseDate": "2020-08-09",
+        "trailerLink": "https://www.youtube.com/watch?v=XXYlFuWE7T0",
+        "genres": [
+            "Synthpop",
+            "Disco"
+        ],
+        "poster": "https://img.youtube.com/vi/XXYlFuWE7T0/hqdefault.jpg",
+        "backdrops": [
+            "https://img.youtube.com/vi/XXYlFuWE7T0/maxresdefault.jpg",
+            "https://img.youtube.com/vi/XXYlFuWE7T0/mqdefault.jpg"
+        ],
+        "reviewIds": []
+    }
+]
